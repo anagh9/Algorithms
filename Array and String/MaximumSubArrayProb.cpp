@@ -1,4 +1,4 @@
-//Its also Known as Kadanes Algorithms
+//Its also Known as Kadanes Algorithm
 
 #include<bits/stdc++.h>
 #define ll long long
