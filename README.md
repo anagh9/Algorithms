@@ -1,4 +1,4 @@
 # Algorithms
 
 ### Array And String
-+ [Maximum SubArray Problem](ArrayandString/MaximumSubArrayProb.cpp)
++ [Maximum SubArray Problem](Array and String/MaximumSubArrayProb.cpp)
