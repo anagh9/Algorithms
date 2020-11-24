@@ -1,4 +1,46 @@
 # Algorithms
 
 ### Array And String
-+ [Maximum SubArray Problem](ArrayandString/MaximumSubArrayProb.cpp)
++ [Maximum SubArray Problem]
++ [Memset]
++ [Pattern Searching Algorithms]
++ [Power of No]
++ [Generating Random No.]
++ [Removing Duplicate Character From String]
++ [Removing Spaces From Line]
++ [Shuffle Array]
++ [Identify string Having unique character]
++ [String is Anagram or not]
++ [Reverse String]
+
+
+### Graph Theory
++ [DFS Traversal]
++ [Dijksta Algorithm using Priority Queue]
++ [Dijkstra Algorithm]
++ [Prism Algorithms Minimum Spanning Tree]
++ [Kruskals Algorithm]
++ [Cycle Detection in Directed graph]
++ [Cycle Detection in Undirected graph]
++ [Cycle in Undirected Graph]
++ [Kosaraju Algorithm Strongly Connected Components]
++ [Tarjans Algorithm Strongly Connected Components]
++ [DFS TRAVERSAL shortest version]
++ [BFS Traversal of Graph]
++ [Shortest Path B/w Graph Vertexes using naive approach]
++ [Bellman Ford Algorithm]
++ [Graph is Reachable from point A and point B or not]
++ [Floyd Warshall All pair Shortest Path]
++ [Adjacency Matrix Representation for Graph]
++ [Implementation of Graph]
++ [Adjacency Matrix Representation]
+
+### Linked List
++ [Circular Linked List all Operations]
++ [Circular Doubly Linked List All Operation]
++ [Delete Element from Middle of Linked List]
++ [Doubly Linked List All Operations]
++ [Find nth Element From the Last]
++ [Sum of Two Linked List in Reverse order]
++ [Removing Duplicate from Linked list ]
++ [Linked List Representation]
