@@ -27,32 +27,32 @@
 + [Reverse of Array](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/ReverseOfArray.cpp)
 
 ### Graph Theory
-+ [DFS Traversal]
-+ [Dijksta Algorithm using Priority Queue]
-+ [Dijkstra Algorithm]
-+ [Prism Algorithms Minimum Spanning Tree]
-+ [Kruskals Algorithm]
-+ [Cycle Detection in Directed graph]
-+ [Cycle Detection in Undirected graph]
-+ [Cycle in Undirected Graph]
-+ [Kosaraju Algorithm Strongly Connected Components]
-+ [Tarjans Algorithm Strongly Connected Components]
-+ [DFS TRAVERSAL shortest version]
-+ [BFS Traversal of Graph]
-+ [Shortest Path B/w Graph Vertexes using naive approach]
-+ [Bellman Ford Algorithm]
-+ [Graph is Reachable from point A and point B or not]
-+ [Floyd Warshall All pair Shortest Path]
-+ [Adjacency Matrix Representation for Graph]
-+ [Implementation of Graph]
-+ [Adjacency Matrix Representation]
++ [DFS Traversal](Graph%20Theory/GraphDfs.cpp)
++ [Dijksta Algorithm using Priority Queue](Graph%20Theory/GraphIntro10.cpp)
++ [Dijkstra Algorithm](Graph%20Theory/GraphIntro11.cpp)
++ [Prism Algorithms Minimum Spanning Tree](Graph%20Theory/GraphIntro12.cpp)
++ [Kruskals Algorithm](Graph%20Theory/GraphIntro13.cpp)
++ [Cycle Detection in Directed graph](Graph%20Theory/GraphIntro14.cpp)
++ [Cycle Detection in Undirected graph](Graph%20Theory/GraphIntro15.cpp)
++ [Cycle in Undirected Graph](Graph%20Theory/GraphIntro16.cpp)
++ [Kosaraju Algorithm Strongly Connected Components](Graph%20Theory/GraphIntro17.cpp)
++ [Tarjans Algorithm Strongly Connected Components](Graph%20Theory/GraphIntro18.cpp)
++ [DFS TRAVERSAL shortest version](Graph%20Theory/GraphIntro4_1.cpp)
++ [BFS Traversal of Graph](Graph%20Theory/GraphIntro5.cpp)
++ [Shortest Path B/w Graph Vertexes using naive approach](Graph%20Theory/GraphIntro6.cpp)
++ [Bellman Ford Algorithm](Graph%20Theory/GraphIntro7.cpp)
++ [Graph is Reachable from point A and point B or not](Graph%20Theory/GraphIntro8.cpp)
++ [Floyd Warshall All pair Shortest Path](Graph%20Theory/GraphIntro9.cpp)
++ [Adjacency Matrix Representation for Graph](Graph%20Theory/GraphRepresentation.cpp)
++ [Implementation of Graph](Graph%20Theory/Graph_Implementation.cpp)
++ [Adjacency Matrix Representation](Graph%20Theory/graphRepresentation.cpp)
 
 ### Linked List
-+ [Circular Linked List all Operations]
-+ [Circular Doubly Linked List All Operation]
-+ [Delete Element from Middle of Linked List]
-+ [Doubly Linked List All Operations]
-+ [Find nth Element From the Last]
-+ [Sum of Two Linked List in Reverse order]
-+ [Removing Duplicate from Linked list ]
-+ [Linked List Representation]
++ [Circular Linked List all Operations](LinkedList/CircularLinkedList.cpp)
++ [Circular Doubly Linked List All Operation](LinkedList/Circular_Doubly_LinkedList.cpp)
++ [Delete Element from Middle of Linked List](LinkedList/DeleteMiddle.cpp)
++ [Doubly Linked List All Operations](LinkedList/DoublyLinkedList.cpp)
++ [Find nth Element From the Last](LinkedList/FindNthElement.cpp)
++ [Sum of Two Linked List in Reverse order](LinkedList/MergeAndAdd.cpp)
++ [Removing Duplicate from Linked list ](LinkedList/RemovingDuplicates.cpp)
++ [Linked List Representation](LinkedList/SinglyLinkedList.cpp)
