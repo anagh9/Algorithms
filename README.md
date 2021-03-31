@@ -2,6 +2,7 @@
 
 ### Array And String
 + [All About STL](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/Stl.cpp)
++ [Most Frequent In Array](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/MostFrequent.cpp)
 + [Maximum SubArray Problem](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/MaximumSubArrayProb.cpp)
 + [Memset](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/Memset.cpp)
 + [Pattern Searching Algorithms](https://github.com/anagh9/Algorithms/blob/master/Array%20and%20String/PatternSearchAlgo.cpp)
